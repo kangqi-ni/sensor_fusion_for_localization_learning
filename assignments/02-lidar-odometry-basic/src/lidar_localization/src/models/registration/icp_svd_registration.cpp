@@ -200,6 +200,14 @@ void ICPSVDRegistration::GetTransform(
     Eigen::JacobiSVD<Eigen::Matrix3f> svd(H, Eigen::ComputeFullU | Eigen::ComputeFullV);
     Eigen::Matrix3f R = svd.matrixV() * svd.matrixU().transpose();
 
+    if (R.determinant() < 0) {
+        Eigen::Matrix3f V = svd.matrixV();
+        V(0,2) *= -1;
+        V(1,2) *= -1;
+        V(2,2) *= -1;
+        R = V * svd.matrixU().transpose();
+    }
+
     // TODO: solve t:
     Eigen::Vector3f t = mu_x - R * mu_y;
 
