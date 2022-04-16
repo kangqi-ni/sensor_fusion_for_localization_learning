@@ -1,4 +1,4 @@
-# # Multi-Sensor Fusion for Localization and Mapping: Lidar Odometry 
+# Multi-Sensor Fusion for Localization and Mapping: Lidar Odometry 
 
 ## ICP
 
