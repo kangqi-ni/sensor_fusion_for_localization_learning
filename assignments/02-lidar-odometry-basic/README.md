@@ -1,4 +1,4 @@
-# Multi-Sensor Fusion for Localization Ch2: 3D Lidar Odometry I
+# 多传感器融合定位 第2章 3D激光里程计I
 
 ## ICP
 
