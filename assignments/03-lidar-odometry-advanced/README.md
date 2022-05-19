@@ -56,6 +56,6 @@
 
 ![LOAM_analytic_ape](https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/03-lidar-odometry-advanced/docs/loam_analytic_ape.png)
 
-<img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/03-lidar-odometry-advanced/docs/loam_autodiff_ape_raw.png">
+<img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/03-lidar-odometry-advanced/docs/loam_analytic_ape_raw.png">
 
-<img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/03-lidar-odometry-advanced/docs/loam_autodiff_ape_map.png">
+<img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/03-lidar-odometry-advanced/docs/loam_analytic_ape_map.png">
