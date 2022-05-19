@@ -1,4 +1,4 @@
-# Multi-Sensor Fusion for Localization and Mapping: Lidar Odometry 
+# Multi-Sensor Fusion for Localization and Mapping: Lidar Odometry Basic
 
 ## ICP
 
@@ -13,6 +13,7 @@
 <img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/02-lidar-odometry-basic/docs/icp_rpe_map.png">
 
 ### evo_ape
+
 ![icp_evo_ape](https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/02-lidar-odometry-basic/docs/icp_ape.png)
 
 <img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/02-lidar-odometry-basic/docs/icp_ape_raw.png">
@@ -32,6 +33,7 @@
 <img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/02-lidar-odometry-basic/docs/icp_svd_rpe_map.png">
 
 ### evo_ape
+
 ![icp_svd_evo_ape](https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/02-lidar-odometry-basic/docs/icp_svd_ape.png)
 
 <img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/02-lidar-odometry-basic/docs/icp_svd_ape_raw.png">
