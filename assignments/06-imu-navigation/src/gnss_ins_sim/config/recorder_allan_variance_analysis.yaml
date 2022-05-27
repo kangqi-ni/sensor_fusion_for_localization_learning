@@ -1,0 +1,15 @@
+# motion def:
+motion_file: static_motion_allan.csv
+# IMU params:
+imu: 1
+# sample frequency of simulated GNSS/IMU data:
+sample_frequency:
+    imu: 100.0
+    gps: 10.0
+# topic name:
+topic_name: /sim/sensor/imu
+topic_name_gt: /pose/ground_truth
+# output rosbag path:
+output_path: /home/kevin/Documents/sensor_fusion_for_localization_learning/assignments/06-imu-navigation/src/data
+# output name:
+output_name: static_motion_allan.bag
