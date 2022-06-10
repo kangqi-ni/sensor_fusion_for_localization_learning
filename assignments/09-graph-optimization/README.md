@@ -30,4 +30,4 @@ The experiments show that imu preintegration does not improve the trajectory acc
 
 ## IMU and Wheel Encoder Fusion Preintegration
 
-The full derivation of residuals, Jacobians, and covariances can be found in imu_and_wheel_encoder_preintegration.pdf (https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/09-graph-optimization/imu_and_wheel_encoder_preintegration.pdf)
+The full derivation of residuals, Jacobians, and covariances can be found in imu_and_wheel_encoder_preintegration.pdf (https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/09-graph-optimization/imu_and_wheel_encoder_fusion_preintegration.pdf)
