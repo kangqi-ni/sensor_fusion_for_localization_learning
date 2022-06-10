@@ -28,4 +28,6 @@ The derivation of Jacobians can be found in imu_preintegration_jacobian.pdf (htt
 
 The experiments show that imu preintegration does not improve the trajectory acccuracy overall. The possible reasons can be the kitti dataset itself. However, it is still obvious that the optimized trajectory is much more accurate than laser odometry from the rviz visualization. 
 
+## IMU and Wheel Encoder Fusion Preintegration
 
+The full derivation of residuals, Jacobians, and covariances can be found in imu_and_wheel_encoder_preintegration.pdf (https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/09-graph-optimization/imu_and_wheel_encoder_preintegration.pdf)
