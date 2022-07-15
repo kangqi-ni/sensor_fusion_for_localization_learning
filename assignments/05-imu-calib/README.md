@@ -1,6 +1,6 @@
 # Multi-Sensor Fusion for Localization and Mapping: IMU Calibration
 
-accelerometer_error_jacobian.pdf contains the derivation of the accelerometer error jacobian (https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/05-imu-calib/accelerometer_error_jacobian.pdf)
+The derivation of the accelerometer error jacobian can be found in accelerometer_error_jacobian.pdf (https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/05-imu-calib/accelerometer_error_jacobian.pdf)
 
 
 Calibration Result:
