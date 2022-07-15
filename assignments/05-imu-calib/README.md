@@ -3,7 +3,8 @@
 The derivation of the accelerometer error jacobian can be found in accelerometer_error_jacobian.pdf (https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/05-imu-calib/accelerometer_error_jacobian.pdf)
 
 
-Calibration Result:
+Calibration Result of the Example:
+
 Accelerometer:
           1          -0           0
 -0.00354989           1          -0
