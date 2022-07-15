@@ -6,6 +6,7 @@ The derivation of the accelerometer error jacobian can be found in accelerometer
 Calibration Result of the Example:
 
 Accelerometer:
+
           1          -0           0
 -0.00354989           1          -0
 -0.00890444  -0.0213032           1
@@ -19,6 +20,7 @@ Accelerometer:
 32364.4
 
 Gyroscope:
+
          1 0.00927517 0.00990014
 0.00507442          1 -0.0322229
  0.0162201 -0.0239393          1
