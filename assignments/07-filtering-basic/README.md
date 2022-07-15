@@ -12,7 +12,7 @@
 
 <img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/07-filtering-basic/docs/laser_ape_map.png">
 
-## NDT + Error State Kalman Filter
+## NDT with Error State Kalman Filter (IMU)
 
 <img src="https://github.com/kangqi-ni/sensor_fusion_for_localization_learning/blob/master/assignments/07-filtering-basic/docs/fusion_ape.png">
 
