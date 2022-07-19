@@ -1,9 +1,3 @@
-/*
- * @Description: Odometer pre-integrator for LIO mapping, interface
- * @Author: Ge Yao
- * @Date: 2020-11-29 15:47:49
- */
-
 #ifndef LIDAR_LOCALIZATION_MODELS_PRE_INTEGRATOR_ODO_PRE_INTEGRATOR_HPP_
 #define LIDAR_LOCALIZATION_MODELS_PRE_INTEGRATOR_ODO_PRE_INTEGRATOR_HPP_
 

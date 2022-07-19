@@ -1,9 +1,3 @@
-/*
- * @Description: Subscribe to & parse synced lidar measurement
- * @Author: Ren Qian
- * @Date: 2020-02-05 02:27:30
- */
-
 #include "lidar_localization/subscriber/lidar_measurement_subscriber.hpp"
 
 #include "glog/logging.h"

@@ -1,8 +1,3 @@
-/*
- * @Description: viewer 的 node 文件
- * @Author: Ren Qian
- * @Date: 2020-02-05 02:56:27
- */
 #include <ros/ros.h>
 #include "glog/logging.h"
 

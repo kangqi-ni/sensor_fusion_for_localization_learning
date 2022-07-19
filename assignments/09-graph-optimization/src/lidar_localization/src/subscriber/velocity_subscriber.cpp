@@ -1,8 +1,3 @@
-/*
- * @Description: 订阅imu数据
- * @Author: Ren Qian
- * @Date: 2019-06-14 16:44:18
- */
 #include "lidar_localization/subscriber/velocity_subscriber.hpp"
 
 #include "glog/logging.h"

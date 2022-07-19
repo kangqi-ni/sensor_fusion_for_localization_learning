@@ -1,5 +1,5 @@
 # 匹配
-registration_method: NDT   # 选择点云匹配方法，目前支持：NDT 
+registration_method: NDT_CPU   # 选择点云匹配方法，目前支持：NDT, NDT_CPU
 
 
 # 当前帧
@@ -16,6 +16,11 @@ local_map_filter: voxel_filter # 选择滑窗地图点云滤波方法，目前�
 # 各配置选项对应参数
 ## 匹配相关参数
 NDT:
+    res : 1.0
+    step_size : 0.1
+    trans_eps : 0.01
+    max_iter : 30
+NDT_CPU:
     res : 1.0
     step_size : 0.1
     trans_eps : 0.01

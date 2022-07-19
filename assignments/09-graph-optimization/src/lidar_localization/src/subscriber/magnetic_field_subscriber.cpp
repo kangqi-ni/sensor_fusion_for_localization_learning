@@ -1,9 +1,3 @@
-/*
- * @Description: Subscribe to magnetic field measurement
- * @Author: Ge Yao
- * @Date: 2020-11-25 23:07:14
- */
-
 #include "lidar_localization/subscriber/magnetic_field_subscriber.hpp"
 
 #include "glog/logging.h"

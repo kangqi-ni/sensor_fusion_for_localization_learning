@@ -1,8 +1,3 @@
-/*
- * @Description: loop closure detection using scan context
- * @Author: Ge Yao
- * @Date: 2020-10-28 15:43:03
- */
 #include <limits>
 
 #include <math.h>

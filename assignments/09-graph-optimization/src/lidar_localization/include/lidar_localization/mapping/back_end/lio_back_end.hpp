@@ -1,8 +1,3 @@
-/*
- * @Description: LIO mapping backend, interface
- * @Author: Ge Yao
- * @Date: 2020-11-29 15:47:49
- */
 #ifndef LIDAR_LOCALIZATION_MAPPING_BACK_END_LIO_BACK_END_HPP_
 #define LIDAR_LOCALIZATION_MAPPING_BACK_END_LIO_BACK_END_HPP_
 

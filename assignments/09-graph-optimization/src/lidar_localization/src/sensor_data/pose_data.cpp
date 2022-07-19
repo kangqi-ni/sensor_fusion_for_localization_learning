@@ -1,8 +1,3 @@
-/*
- * @Description: 
- * @Author: Ren Qian
- * @Date: 2020-02-28 18:50:16
- */
 #include "lidar_localization/sensor_data/pose_data.hpp"
 
 namespace lidar_localization {

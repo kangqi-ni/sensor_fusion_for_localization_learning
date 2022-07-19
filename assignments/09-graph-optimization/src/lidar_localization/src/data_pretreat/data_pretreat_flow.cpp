@@ -1,8 +1,3 @@
-/*
- * @Description: 数据预处理模块，包括时间同步、点云去畸变等
- * @Author: Ren Qian
- * @Date: 2020-02-10 08:38:42
- */
 #include "lidar_localization/data_pretreat/data_pretreat_flow.hpp"
 
 #include "glog/logging.h"

@@ -1,8 +1,3 @@
-/*
- * @Description: LIO mapping backend ROS node
- * @Author: Ge Yao
- * @Date: 2020-11-29 15:47:49
- */
 #include <ros/ros.h>
 #include "glog/logging.h"
 

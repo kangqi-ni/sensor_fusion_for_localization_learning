@@ -1,8 +1,3 @@
-/*
- * @Description: Subscribe to PosVel messages
- * @Author: Ge Yao
- * @Date: 2020-11-12 15:14:07
- */
 #ifndef LIDAR_LOCALIZATION_SUBSCRIBER_POS_VEL_SUBSCRIBER_HPP_
 #define LIDAR_LOCALIZATION_SUBSCRIBER_POS_VEL_SUBSCRIBER_HPP_
 

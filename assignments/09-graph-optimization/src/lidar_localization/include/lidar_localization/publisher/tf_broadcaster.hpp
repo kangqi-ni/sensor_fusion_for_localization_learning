@@ -1,9 +1,3 @@
-/*
- * @Description: 发布tf的类
- * @Author: Ren Qian
- * @Date: 2020-03-05 15:23:26
- */
-
 #ifndef LIDAR_LOCALIZATION_PUBLISHER_TF_BROADCASTER_HPP_
 #define LIDAR_LOCALIZATION_PUBLISHER_TF_BROADCASTER_HPP_
 

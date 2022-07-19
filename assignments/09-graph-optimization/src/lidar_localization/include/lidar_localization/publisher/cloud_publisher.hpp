@@ -1,9 +1,3 @@
-/*
- * @Description: 在ros中发布点云
- * @Author: Ren Qian
- * @Date: 2020-02-05 02:27:30
- */
-
 #ifndef LIDAR_LOCALIZATION_PUBLISHER_CLOUD_PUBLISHER_HPP_
 #define LIDAR_LOCALIZATION_PUBLISHER_CLOUD_PUBLISHER_HPP_
 

@@ -1,9 +1,3 @@
-/*
- * @Description: Odometer pre-integrator for LIO mapping, implementation
- * @Author: Ge Yao
- * @Date: 2020-11-29 15:47:49
- */
-
 #include "lidar_localization/models/pre_integrator/odo_pre_integrator.hpp"
 
 #include "lidar_localization/global_defination/global_defination.h"

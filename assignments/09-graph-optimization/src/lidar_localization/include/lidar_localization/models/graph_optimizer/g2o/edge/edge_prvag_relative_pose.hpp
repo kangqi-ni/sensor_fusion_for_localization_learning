@@ -1,8 +1,3 @@
-/*
- * @Description: g2o edge for LIO lidar frontend relative pose measurement
- * @Author: Ge Yao
- * @Date: 2020-11-29 15:47:49
- */
 #ifndef LIDAR_LOCALIZATION_MODELS_GRAPH_OPTIMIZER_G2O_EDGE_EDGE_PRVAG_RELATIVE_POSE_HPP_
 #define LIDAR_LOCALIZATION_MODELS_GRAPH_OPTIMIZER_G2O_EDGE_EDGE_PRVAG_RELATIVE_POSE_HPP_
 

@@ -1,8 +1,3 @@
-/*
- * @Description: front end 任务管理， 放在类里使代码更清晰
- * @Author: Ren Qian
- * @Date: 2020-02-10 08:38:42
- */
 #include "lidar_localization/mapping/front_end/front_end_flow.hpp"
 #include "glog/logging.h"
 #include "lidar_localization/global_defination/global_defination.h"

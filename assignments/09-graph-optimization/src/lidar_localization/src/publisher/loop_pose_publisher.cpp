@@ -1,8 +1,3 @@
-/*
- * @Description: 发送闭环检测的相对位姿
- * @Author: Ren Qian
- * @Date: 2020-02-06 21:11:44
- */
 #include "lidar_localization/publisher/loop_pose_publisher.hpp"
 
 #include <Eigen/Dense>

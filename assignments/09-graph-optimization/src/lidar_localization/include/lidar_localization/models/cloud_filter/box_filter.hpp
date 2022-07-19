@@ -1,9 +1,3 @@
-/*
- * @Description: 从点云中截取一个立方体部分
- * @Author: Ren Qian
- * @Date: 2020-03-04 20:09:37
- */
-
 #ifndef LIDAR_LOCALIZATION_MODELS_CLOUD_FILTER_BOX_FILTER_HPP_
 #define LIDAR_LOCALIZATION_MODELS_CLOUD_FILTER_BOX_FILTER_HPP_
 

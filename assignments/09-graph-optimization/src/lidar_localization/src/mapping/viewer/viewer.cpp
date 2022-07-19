@@ -1,8 +1,3 @@
-/*
- * @Description: 
- * @Author: Ren Qian
- * @Date: 2020-02-29 03:49:12
- */
 #include "lidar_localization/mapping/viewer/viewer.hpp"
 
 #include <pcl/common/transforms.h>

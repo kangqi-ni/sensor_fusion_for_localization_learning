@@ -1,8 +1,3 @@
-/*
- * @Description: 
- * @Author: Ren Qian
- * @Date: 2020-02-29 03:32:14
- */
 #ifndef LIDAR_LOCALIZATION_MAPPING_VIEWER_VIEWER_FLOW_HPP_
 #define LIDAR_LOCALIZATION_MAPPING_VIEWER_VIEWER_FLOW_HPP_
 

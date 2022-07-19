@@ -1,8 +1,3 @@
-/*
- * @Description: 从点云中截取一个立方体部分
- * @Author: Ren Qian
- * @Date: 2019-03-12 23:38:31
- */
 #include <vector>
 #include <iostream>
 #include "glog/logging.h"

@@ -1,8 +1,3 @@
-/*
- * @Description: 前端里程计算法
- * @Author: Ren Qian
- * @Date: 2020-02-04 18:53:06
- */
 #include "lidar_localization/mapping/front_end/front_end.hpp"
 
 #include <fstream>
@@ -14,6 +9,7 @@
 #include "lidar_localization/global_defination/global_defination.h"
 #include "lidar_localization/tools/print_info.hpp"
 #include "lidar_localization/models/registration/ndt_registration.hpp"
+#include "lidar_localization/models/registration/ndt_cpu/ndt_cpu_registration.hpp"
 #include "lidar_localization/models/cloud_filter/voxel_filter.hpp"
 #include "lidar_localization/models/cloud_filter/no_filter.hpp"
 
@@ -50,7 +46,13 @@ bool FrontEnd::InitRegistration(std::shared_ptr<RegistrationInterface>& registra
 
     if (registration_method == "NDT") {
         registration_ptr = std::make_shared<NDTRegistration>(config_node[registration_method]);
-    } else {
+    } 
+    
+    else if (registration_method == "NDT_CPU") {
+        registration_ptr = std::make_shared<NDTCPURegistration>(config_node[registration_method]);
+    }
+
+    else {
         LOG(ERROR) << "Registration method " << registration_method << " NOT FOUND!";
         return false;
     }

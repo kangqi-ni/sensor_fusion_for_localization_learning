@@ -1,9 +1,3 @@
-/*
- * @Description: loop closure detection using scan context
- * @Author: Ge Yao
- * @Date: 2020-10-28 15:43:03
- */
-
 #ifndef LIDAR_LOCALIZATION_MODELS_SCAN_CONTEXT_MANAGER_HPP_
 #define LIDAR_LOCALIZATION_MODELS_SCAN_CONTEXT_MANAGER_HPP_
 

@@ -13,7 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
   geometry_msgs
   sensor_msgs
   nav_msgs
-  pcl_ros
+#  pcl_ros
   tf
   eigen_conversions
   message_generation 

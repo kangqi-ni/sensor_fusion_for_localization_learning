@@ -1,9 +1,3 @@
-/*
- * @Description: LIO mapping backend, implementation
- * @Author: Ge Yao
- * @Date: 2020-11-29 15:47:49
- */
-
 #include "lidar_localization/mapping/back_end/lio_back_end.hpp"
 
 #include <Eigen/Dense>

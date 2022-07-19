@@ -1,9 +1,3 @@
-/*
- * @Description: 订阅激光点云信息，并解析数据
- * @Author: Ren Qian
- * @Date: 2020-02-05 02:27:30
- */
-
 #include "lidar_localization/subscriber/cloud_subscriber.hpp"
 
 #include "glog/logging.h"

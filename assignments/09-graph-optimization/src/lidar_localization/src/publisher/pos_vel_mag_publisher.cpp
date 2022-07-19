@@ -1,8 +1,3 @@
-/*
- * @Description: synced PosVelMagData publisher
- * @Author: Ge Yao
- * @Date: 2020-11-21 15:39:24
- */
 #include "lidar_localization/publisher/pos_vel_mag_publisher.hpp"
 
 namespace lidar_localization {

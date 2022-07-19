@@ -1,8 +1,3 @@
-/*
- * @Description: 
- * @Author: Ren Qian
- * @Date: 2020-03-02 23:28:54
- */
 #include <iostream>
 
 #include "lidar_localization/tools/print_info.hpp"

@@ -1,8 +1,3 @@
-/*
- * @Description: tf监听模块
- * @Author: Ren Qian
- * @Date: 2020-02-06 16:01:21
- */
 #ifndef LIDAR_LOCALIZATION_TF_LISTENER_HPP_
 #define LIDAR_LOCALIZATION_TF_LISTENER_HPP_
 

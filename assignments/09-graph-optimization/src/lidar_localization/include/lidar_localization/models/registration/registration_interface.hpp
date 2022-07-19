@@ -1,8 +1,3 @@
-/*
- * @Description: 点云匹配模块的基类
- * @Author: Ren Qian
- * @Date: 2020-02-08 21:25:11
- */
 #ifndef LIDAR_LOCALIZATION_MODELS_REGISTRATION_INTERFACE_HPP_
 #define LIDAR_LOCALIZATION_MODELS_REGISTRATION_INTERFACE_HPP_
 

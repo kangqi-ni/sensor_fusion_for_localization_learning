@@ -1,8 +1,3 @@
-/*
- * @Description: voxel filter 模块
- * @Author: Ren Qian
- * @Date: 2020-02-09 19:37:49
- */
 #ifndef LIDAR_LOCALIZATION_MODELS_CLOUD_FILTER_VOXEL_FILTER_HPP_
 #define LIDAR_LOCALIZATION_MODELS_CLOUD_FILTER_VOXEL_FILTER_HPP_
 

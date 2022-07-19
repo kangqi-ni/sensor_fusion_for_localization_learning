@@ -1,8 +1,3 @@
-/*
- * @Description: 单个 key frame 信息发布
- * @Author: Ren Qian
- * @Date: 2020-02-06 21:11:44
- */
 #include "lidar_localization/publisher/key_frame_publisher.hpp"
 
 #include <Eigen/Dense>

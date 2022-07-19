@@ -1,8 +1,3 @@
-/*
- * @Description: 实时显示，主要是点云
- * @Author: Ren Qian
- * @Date: 2020-02-29 03:19:45
- */
 #ifndef LIDAR_LOCALIZATION_MAPPING_VIEWER_VIEWER_HPP_
 #define LIDAR_LOCALIZATION_MAPPING_VIEWER_VIEWER_HPP_
 

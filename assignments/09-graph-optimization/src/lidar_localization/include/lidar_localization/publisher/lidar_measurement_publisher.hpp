@@ -1,9 +1,3 @@
-/*
- * @Description: Publish synced Lidar-IMU-GNSS measurement
- * @Author: Ge Yao
- * @Date: 2020-11-12 15:14:07
- */
-
 #ifndef LIDAR_LOCALIZATION_PUBLISHER_LIDAR_MEASUREMENT_PUBLISHER_HPP_
 #define LIDAR_LOCALIZATION_PUBLISHER_LIDAR_MEASUREMENT_PUBLISHER_HPP_
 

@@ -1,8 +1,3 @@
-/*
- * @Description: 读写文件管理
- * @Author: Ren Qian
- * @Date: 2020-02-24 19:22:53
- */
 #ifndef LIDAR_LOCALIZATION_TOOLS_FILE_MANAGER_HPP_
 #define LIDAR_LOCALIZATION_TOOLS_FILE_MANAGER_HPP_
 

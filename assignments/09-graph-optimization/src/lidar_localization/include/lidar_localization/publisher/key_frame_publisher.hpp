@@ -1,8 +1,3 @@
-/*
- * @Description: 单个 key frame 信息发布
- * @Author: Ren Qian
- * @Date: 2020-02-06 21:05:47
- */
 #ifndef LIDAR_LOCALIZATION_PUBLISHER_KEY_FRAME_PUBLISHER_HPP_
 #define LIDAR_LOCALIZATION_PUBLISHER_KEY_FRAME_PUBLISHER_HPP_
 

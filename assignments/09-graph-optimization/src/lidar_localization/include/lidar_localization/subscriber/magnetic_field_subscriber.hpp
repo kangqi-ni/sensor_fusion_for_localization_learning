@@ -1,9 +1,3 @@
-/*
- * @Description: Subscribe to magnetic field measurement
- * @Author: Ge Yao
- * @Date: 2020-11-25 23:07:14
- */
-
 #ifndef LIDAR_LOCALIZATION_SUBSCRIBER_MAGNETIC_FIELD_SUBSCRIBER_HPP_
 #define LIDAR_LOCALIZATION_SUBSCRIBER_MAGNETIC_FIELD_SUBSCRIBER_HPP_
 

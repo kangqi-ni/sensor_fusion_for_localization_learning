@@ -1,9 +1,3 @@
-/*
- * @Description: 发布tf的类
- * @Author: Ren Qian
- * @Date: 2020-03-05 15:23:26
- */
-
 #include "lidar_localization/publisher/tf_broadcaster.hpp"
 
 namespace lidar_localization {

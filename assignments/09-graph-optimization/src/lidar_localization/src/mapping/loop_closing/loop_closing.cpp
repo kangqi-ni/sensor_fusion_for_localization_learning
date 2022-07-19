@@ -1,8 +1,3 @@
-/*
- * @Description: 闭环检测算法
- * @Author: Ren Qian
- * @Date: 2020-02-04 18:53:06
- */
 #include "lidar_localization/mapping/loop_closing/loop_closing.hpp"
 
 #include <cmath>

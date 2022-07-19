@@ -1,8 +1,3 @@
-/*
- * @Description: 一些文件读写的方法
- * @Author: Ren Qian
- * @Date: 2020-02-24 20:09:32
- */
 #include "lidar_localization/tools/file_manager.hpp"
 
 #include <boost/filesystem.hpp>

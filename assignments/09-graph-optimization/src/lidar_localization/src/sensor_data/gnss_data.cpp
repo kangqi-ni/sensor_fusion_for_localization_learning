@@ -1,8 +1,3 @@
-/*
- * @Description: 
- * @Author: Ren Qian
- * @Date: 2020-02-06 20:42:23
- */
 #include "lidar_localization/sensor_data/gnss_data.hpp"
 
 #include "glog/logging.h"

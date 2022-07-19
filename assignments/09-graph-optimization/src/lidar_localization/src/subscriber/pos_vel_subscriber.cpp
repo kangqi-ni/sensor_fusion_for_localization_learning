@@ -1,9 +1,3 @@
-/*
- * @Description: Subscribe to PosVel messages
- * @Author: Ge Yao
- * @Date: 2020-11-12 15:14:07
- */
-
 #include "lidar_localization/subscriber/pos_vel_subscriber.hpp"
 #include "glog/logging.h"
 

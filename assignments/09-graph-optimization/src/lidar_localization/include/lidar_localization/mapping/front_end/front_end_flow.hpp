@@ -1,8 +1,3 @@
-/*
- * @Description: front end 任务管理， 放在类里使代码更清晰
- * @Author: Ren Qian
- * @Date: 2020-02-10 08:31:22
- */
 #ifndef LIDAR_LOCALIZATION_MAPPING_FRONT_END_FRONT_END_FLOW_HPP_
 #define LIDAR_LOCALIZATION_MAPPING_FRONT_END_FRONT_END_FLOW_HPP_
 

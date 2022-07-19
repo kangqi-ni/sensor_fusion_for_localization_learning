@@ -1,8 +1,3 @@
-/*
- * @Description: magnetic field data
- * @Author: Ren Qian
- * @Date: 2020-11-25 23:07:14
- */
 #include "lidar_localization/sensor_data/magnetic_field_data.hpp"
 
 #include "glog/logging.h"

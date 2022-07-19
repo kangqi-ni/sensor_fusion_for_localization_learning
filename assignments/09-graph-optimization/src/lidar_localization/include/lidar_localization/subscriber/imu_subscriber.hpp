@@ -1,8 +1,3 @@
-/*
- * @Description: 订阅imu数据
- * @Author: Ren Qian
- * @Date: 2019-08-19 19:22:17
- */
 #ifndef LIDAR_LOCALIZATION_SUBSCRIBER_IMU_SUBSCRIBER_HPP_
 #define LIDAR_LOCALIZATION_SUBSCRIBER_IMU_SUBSCRIBER_HPP_
 

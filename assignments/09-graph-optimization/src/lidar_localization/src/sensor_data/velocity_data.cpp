@@ -1,8 +1,3 @@
-/*
- * @Description: velocity data
- * @Author: Ren Qian
- * @Date: 2020-02-23 22:20:41
- */
 #include "lidar_localization/sensor_data/velocity_data.hpp"
 
 #include "glog/logging.h"

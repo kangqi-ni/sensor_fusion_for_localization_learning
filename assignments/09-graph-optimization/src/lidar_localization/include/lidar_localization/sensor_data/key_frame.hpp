@@ -1,8 +1,3 @@
-/*
- * @Description: LIO key frame
- * @Author: Ren Qian
- * @Date: 2020-02-28 19:13:26
- */
 #ifndef LIDAR_LOCALIZATION_SENSOR_DATA_KEY_FRAME_HPP_
 #define LIDAR_LOCALIZATION_SENSOR_DATA_KEY_FRAME_HPP_
 

@@ -1,8 +1,3 @@
-/*
- * @Description: magnetic field data
- * @Author: Ge Yao
- * @Date: 2020-11-25 23:07:14
- */
 #ifndef LIDAR_LOCALIZATION_SENSOR_DATA_MAGNETIC_FIELD_DATA_HPP_
 #define LIDAR_LOCALIZATION_SENSOR_DATA_MAGNETIC_FIELD_DATA_HPP_
 

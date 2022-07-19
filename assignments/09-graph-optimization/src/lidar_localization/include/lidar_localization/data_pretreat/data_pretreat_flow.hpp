@@ -1,8 +1,3 @@
-/*
- * @Description: 数据预处理模块，包括时间同步、点云去畸变等
- * @Author: Ren Qian
- * @Date: 2020-02-10 08:31:22
- */
 #ifndef LIDAR_LOCALIZATION_DATA_PRETREAT_DATA_PRETREAT_FLOW_HPP_
 #define LIDAR_LOCALIZATION_DATA_PRETREAT_DATA_PRETREAT_FLOW_HPP_
 

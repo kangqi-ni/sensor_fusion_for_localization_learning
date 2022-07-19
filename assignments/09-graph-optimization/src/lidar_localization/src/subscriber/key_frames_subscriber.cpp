@@ -1,8 +1,3 @@
-/*
- * @Description: 订阅 key frame 数据
- * @Author: Ren Qian
- * @Date: 2019-06-14 16:44:18
- */
 #include "lidar_localization/subscriber/key_frames_subscriber.hpp"
 #include "glog/logging.h"
 
